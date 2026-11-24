@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtualno okolje
+.venv/
+
+# Lokalna konfiguracija in skrivnosti
+.env
+.env.*
+!.env.example
+keys/
+
+# VS Code nastavitve za posamezen računalnik
+.vscode/
+
+# Sistemske datoteke
+.DS_Store
+Thumbs.db
